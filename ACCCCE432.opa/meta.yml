@@ -1,0 +1,19 @@
+id: ACCCCE432
+title: Middle Way Aspiration
+type: translation
+pechas:
+- I48565865
+- IB58284C7
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:54:16.840504
+  last_modified_at: 2023-01-04 12:54:16.840526
+  collections:
+  - Khenpo Shenpen Nangwa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I48565865/9C03: A821
+  IB58284C7/6442: A821
